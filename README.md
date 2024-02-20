@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gideonkipkemoi
 - 👀 I’m coding to continually improve my skills on web development , data analysis and cybersecurity.
-- 🌱 Currently an information systems auditorto ensure data conformity to CIA triad.
+- 🌱 Currently an information systems auditor to ensure applications conform to CIA triad.
 - 💞️ I’m looking to collaborate on web development and data structures
 - 📫 reach me on X using my handle @kiptryin, discord and slack - @iddie
 - Favourite webdev frameworks
