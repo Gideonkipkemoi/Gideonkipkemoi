@@ -8,8 +8,7 @@
 - ::frontend - react
 - ::container - docker
 - ::version control - git
-- ::familiarility with OWASP and optimizing tools such as nmap, burpsuite, sqlmap, findomain
-- ::familiriaty with OSINT by ensuring optimization of engines such as hunter.io, crt.sh, 
+- ::Ethical hacking and scripting
 
 <!---
 Gideonkipkemoi/Gideonkipkemoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
