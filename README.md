@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gideonkipkemoi
 - 👀 Proficiency in web development , data analysis and cybersecurity.
 - 🌱 Currently an information systems auditor to ensure sufficient controls to safeguard data.
-- 💞️ I’m looking forward to collaborate on ethical hacking, web development and data structures
+- 💞️ I’m looking forward to collaborate in ethical hacking, web development and data structures
 - 📫 reach me on X using my handle @kiptryin, discord and slack - @iddie
 - Favourite webdev frameworks
 - ::backend - django, springboot
