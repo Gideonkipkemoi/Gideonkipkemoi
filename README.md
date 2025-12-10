@@ -1,2 +1,2 @@
-- 👋 Hi, I’m CEH @Gideonkipkemoi
-- Areas of expertise include; cybersecurity, information systems audit, data analysis, visualization and automation.
+Hello, Gideonkipkemoi
+Let's talk cybersecurity
